@@ -17,7 +17,8 @@ body {
   padding: 20px;
   box-shadow: 2px 4px 8px 2px white;
   border-radius: 5px;
-  border: 1px solid lightgray;
+  /* border: 1px solid lightgray; */
+  border: 1px solid black;
 }
 .container h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
